@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LESSON9</string>
+    <string-array name="City">
+        <item>london</item>
+        <item>Manchester</item>
+        <item>liverpull</item>
+        <item>Birminghem</item>
+        <item>York</item>
+        <item>Bristol</item>
+        <item>Kembridg</item>
+        <item>Oxford</item>
+        <item>Batt</item>
+        <item>Nottinghem</item>
+    </string-array>
+</resources>
